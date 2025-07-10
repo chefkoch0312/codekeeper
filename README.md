@@ -35,7 +35,6 @@ codekeeper/
 
    ```bash
    git clone https://github.com/chefkoch0312/codekeeper.git
-   cd codekeeper
    ```
 
 2. Abhängigkeiten sicherstellen (nur Standardbibliotheken benötigt):
