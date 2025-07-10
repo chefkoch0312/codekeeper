@@ -37,7 +37,7 @@ codekeeper/
    git clone https://github.com/chefkoch0312/codekeeper.git
    ```
 
-2. Abhängigkeiten sicherstellen (nur Standardbibliotheken benötigt):
+2. Abhängigkeiten sicherstellen (nur Standardbibliotheken benötigt) & Ausführen:
 
    ```bash
    python main.py
